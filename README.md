@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AngaraKushalkumar
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning html,css,java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in frontend development and data scientist
+- 🌱 I’m currently learning html,css,python,pandas,stramlyt
+
 
 <!---
 AngaraKushalkumar/AngaraKushalkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
